@@ -1,0 +1,4 @@
+<?php
+ goto UkKW7; Bdczc: qK1B3: goto ZpKWN; R2hiN: X2sx3: goto dp_hN; gAmbM: goto X2sx3; goto Bdczc; UkKW7: goto c3uuj; goto R2hiN; V2QV8: c3uuj: goto iUK2S; iUK2S: ?>
+<!doctypehtml><html lang="en"><head><meta charset="UTF-8"><meta content="width=device-width,initial-scale=1"name="viewport"><title>Alors On Danse</title><link href="index.css"rel="stylesheet"type="text/css"></head><body><header><h1>Alors On Danse</h1><nav><a href="index.php">Home</a> <a href="login.php">Login</a></nav></header><div style="padding:20px"><h2>Welcome to our website!</h2><p>This is a Alors On Danselication.</p><p>To get started please <a href="login.php">login.</a></p></div><footer><p>©<?php  goto gAmbM; dp_hN: echo date("\131"); goto a76JZ; a76JZ: goto qK1B3; goto V2QV8; ZpKWN: ?>
+Alors On Danse</p></footer></body></html>
